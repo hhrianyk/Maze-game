@@ -1,0 +1,76 @@
+﻿  Labirint.cpp
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(43,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(54,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(60,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(76,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(76,14): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(76,14): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(76,14): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(76,14): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(77,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(77,15): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(77,15): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(77,15): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(77,15): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(82,53): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(82,53): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(82,53): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(82,53): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(82,53): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(84,54): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(84,54): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(84,54): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(84,54): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(84,54): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,23): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,23): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,23): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,23): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,23): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,20): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,20): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,20): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,20): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(108,20): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(110,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(111,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(121,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(129,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(144,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(144,14): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(144,14): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(144,14): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(144,14): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(145,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(145,15): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(145,15): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(145,15): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(145,15): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(149,62): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(149,62): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(149,62): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(149,62): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(149,62): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(151,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(152,62): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(152,62): warning C4244:         with
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(152,62): warning C4244:         [
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(152,62): warning C4244:             T=float
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(152,62): warning C4244:         ]
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(152,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(186,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(187,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(192,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(205,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(220,15): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(223,14): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(227,18): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(228,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(229,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(230,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(235,15): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(256,31): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(264,47): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(272,47): warning C4305: =: усечение из "double" в "float"
+C:\Users\дом\source\repos\My Game\My Game\Labirint.cpp(388,7): warning C4101: b: неиспользованная локальная переменная
+  My Game.vcxproj -> C:\Users\дом\source\repos\My Game\Debug\My Game.exe
